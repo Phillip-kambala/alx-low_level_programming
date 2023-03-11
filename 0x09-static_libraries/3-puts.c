@@ -6,8 +6,9 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	_puts("\"At the end of the day, my goal was to be the best hacker");
 	return (0);
 }
